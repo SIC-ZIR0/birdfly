@@ -8,19 +8,13 @@ Assim podendo começar com uma base sólida em um scanner de cabaçalhos
 
 ## Como usar:
 
-	Instalar todas dependencias:
 
-	     ```Bash
 		pip install -r requeriments.txt
-	     ```	
 
 --
 
-	Rodar o script:
 
-	     ```Bash
 		python birdfly.py -h
-	     ```	
 
 --
 
