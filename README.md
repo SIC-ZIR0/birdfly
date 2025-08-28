@@ -84,6 +84,6 @@ Distribuído sob a licença MIT. Veja LICENSE para mais detalhes.
 Projeto desenvolvido pela SEC-0
 Artigo escrito por Marius Jabami
 
-📢 Menção especial: @mariusjabami
+📢 Menção especial: https://github.com/mariusjabami
 
 ---
