@@ -25,7 +25,7 @@ Clone o repositório e instale as dependências:
 git clone https://github.com/seu-usuario/birdfly.git
 cd birdfly
 pip install -r requirements.txt
-
+```
 
 ---
 
