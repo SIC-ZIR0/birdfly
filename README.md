@@ -32,20 +32,21 @@ pip install -r requirements.txt
 ## ▶️ Uso
 
 Exibir o menu de ajuda:
-
+```Bash
 python birdfly.py -h
-
+```
 Exemplo de varredura em um domínio:
-
+```Bash
 python birdfly.py -u https://exemplo.com
-
+```
 ## Saída esperada:
 
+```Bash
 [+] Verificando cabeçalhos de https://exemplo.com
 [✔] X-Content-Type-Options: presente
 [✖] X-Frame-Options: ausente
 [✔] Strict-Transport-Security: presente
-
+```
 
 ---
 
